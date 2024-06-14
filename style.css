@@ -17,7 +17,7 @@
   width: 110px;
 }
 .logo {
-  background-image: url("/amazon_logo.png");
+  background-image: url("./amazon_logo.png");
   background-size: cover;
   height: 50px;
   width: 110px;
@@ -160,7 +160,7 @@ width: 24%;
     color: #ff950a;
 }
 .hero-section{
-    background-image: url("/hero_image.jpg");
+    background-image: url("./hero_image.jpg");
     background-size: cover;
     height: 400px;
     width: 100%;
